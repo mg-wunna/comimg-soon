@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# tempory
+/temp
+
+# secret
+.env.development
+.env.production
+
+# to do
+.todo
